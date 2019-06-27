@@ -1,4 +1,4 @@
-import GphApiClient from './node_modules/giphy-js-sdk-core';
+import GphApiClient from 'giphy-js-sdk-core';
 
 const client = GphApiClient('MTi47j0kagCljkuKvVR9zIrph7FaioUY');
 

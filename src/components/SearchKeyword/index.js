@@ -1,5 +1,5 @@
-import React from './node_modules/react';
-import './styles.css';
+import React from 'react';
+import './Styles.css';
 
 export default (props) => {
     return (
