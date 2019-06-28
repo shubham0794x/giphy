@@ -6,7 +6,7 @@ import { searchGifs } from './api/GifApi';
 import Gif from './components/Gif';
 import Lightbox from './components/LightBox';
 import Context from './Context';
-import Loading from './components/common/Loading';
+import Loading from './components/common/loading';
 import SearchButton from './components/SearchKeyword/SearchButton';
 
 
